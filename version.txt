@@ -1,2 +1,2 @@
-release=
+release=1.0
 beta=1.1UT13-B149
