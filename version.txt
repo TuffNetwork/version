@@ -1,2 +1,2 @@
 release=1.0
-beta=1.1UT15-B2
+beta=1.1UT15-B3
