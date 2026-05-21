@@ -1,2 +1,3 @@
 release=1.0
-beta=1.1UT16-B6
+ut=
+beta=1.1UT16-B7
